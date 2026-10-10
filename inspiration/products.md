@@ -1,0 +1,2 @@
+- [Cluely](https://cluely.com/) - AI overlay
+- [RTHMN](https://www.rthmn.com/) - Trading tool

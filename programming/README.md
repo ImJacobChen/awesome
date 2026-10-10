@@ -6,9 +6,8 @@
 
 | Topic | What's inside |
 |-------|---------------|
-| [JavaScript](javascript.md) | Libraries, articles, and talks on the language itself |
+| [JavaScript](javascript.md) | Libraries, Frameworks, tooling, patterns, articles |
 | [Node.js](node.md) | Frameworks, tooling, and backend patterns |
-| [Rust](rust.md) | Learning resources and crates I've used |
 
 ## General
 

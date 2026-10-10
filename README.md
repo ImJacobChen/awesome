@@ -1,6 +1,6 @@
-# Awesome [Your Name]
+# Awesome
 
-> A curated collection of things I find interesting.
+> A collection of things I find interesting.
 
 ## Contents
 

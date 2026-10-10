@@ -6,5 +6,5 @@
 
 - [Programming](programming/README.md)
   - [JavaScript](programming/javascript.md)
-  - [Node.js](programming/node.md)
+- [Inspiration](inspiration/README.md)
 - [Tools](tools/)
